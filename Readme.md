@@ -21,7 +21,7 @@ for (const x of take(2, arr)) {
 }
 
 // Output:
-// a
+// a  
 // b
 
 # Task 5
