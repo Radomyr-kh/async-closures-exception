@@ -20,7 +20,7 @@ for (const x of take(2, arr)) {
  console.log(x);  
 }
 
-// Output:
+// Output:  
 // a  
 // b
 
